@@ -5,16 +5,70 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
+A model that predicts how much the customer will potentially pay when purchasing a new car.
 
-
+If you would like more information on the project, please check out my [blog post](https://erolgelbul.com/project-blog/car-sales).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- TECH -->
-## Software and Libraries
+## Computing Platform
+
+I used [Jupyter Notebook](https://jupyter.org/). I recommend installing Anaconda.
+
+### Create an account:
+
+First create an account on [Anaconda Cloud](https://anaconda.org)
+
+### Install the client:
+
+#### With Conda (recommended):
+
+```
+$ conda install anaconda-client
+```
+
+#### With pip:
+
+```
+pip install anaconda-client
+```
+
+#### With pip from source:
+
+```
+pip install git+https://github.com/Anaconda-Server/anaconda-client
+```
+
+### Login
+
+`$ anaconda login`
+
+Test your login with the whoami command:
+
+`$ anaconda whoami`
+
+For a complete tutorial on building and uploading Conda packages to Anaconda Cloud visit the [documentation page](http://docs.anaconda.org/).
 
 
+### Links
+
+ * http://docs.anaconda.org/
+ * https://anaconda.org
+
+
+<!-- TECH -->
+## Getting Started
+
+After you have Anaconda installed, you need to download Jupyter Notebook application within Anaconda.
+
+1. Launch Jupyter Notebook.
+2. Go to `File`, then `Open`.
+3. Open the file: `predicting_car_sales.ipynb`. 
+4. Press `CTRL + Enter` to run a single cell.
+5. The output of a specific cell will be presented below.
+6. If anything goes wrong, just reset the kernel by pressing `0`, `0`.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
