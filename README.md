@@ -12,6 +12,16 @@ If you would like more information on the project, please check out my [blog pos
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+## Evaluations
+
+Since this is a prediction and it is a continual value (purchase amount) the problem at hand is a regression problem.
+
+After 20 epochs the error dropped significantly. If the model is limited to 30 epochs instead of a 100, that will be more efficient.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 <!-- TECH -->
 ## Computing Platform
 
